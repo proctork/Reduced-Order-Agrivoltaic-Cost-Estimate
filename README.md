@@ -1,1 +1,5 @@
-# Reduced-Order-Agrivoltaic-Cost-Estimate
+# S1 Methods - Full calculation
+This Jupyter Notebook is intended to accompany the publication "Agrivoltaics align with Green New Deal goals while supporting investment in the US’ rural economy" in the journal PNAS Brief Reports
+
+### Abstract
+Agrivoltaic systems combine solar photovoltaic panels with agriculture to improve land use efficiency. We provide an upper-bound reduced-order cost estimate for widespread implementation of Agrivoltaic systems in the United States. We find that 20% of the US’ total electricity generation can be met with Agrivoltaic systems if approximately 1% of the annual US budget is invested into rural infrastructure. These systems also align well with existing Green New Deal goals; wide scale installation can lead to a CO2 emissions reduction equivalent to taking 71,000 cars off the road annually. The systems can also lead to the creation of over 100,000 jobs in rural communities, with 40% of those jobs in sustained operation and maintenance positions. Agrivoltaics provide a rare chance for true synergy: more food, more energy, less water demand, less carbon emissions, and more prosperous rural communities.
